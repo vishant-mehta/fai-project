@@ -1,4 +1,4 @@
-# FAI Project
+# IntelliGrade: Enhancing Descriptive Answer Assessment with LLMs
 
 ## Description
 This project contains Python scripts for analyzing the MashQA dataset and augmenting it with additional columns: Answer, Score, and Feedback. It is designed to run with minimal dependencies. Additionally, this repository includes a Streamlit application that serves as a UI dashboard for visualizing results from the underlying trained model.
@@ -34,10 +34,10 @@ streamlit run streamlit_app.py
 
 This project has been developed with contributions from the following individuals:
 
-- **Akshat Gandhi (Auther1)** 
-- **Vishant Mehta (Auther2)** 
-- **Amrit Gupta (Name)** 
-- **Ashwath Kumar (Name)**
+- **Akshat Gandhi** 
+- **Vishant Mehta** 
+- **Amrit Gupta** 
+- **Aswath Senthil Kumar**
 
 
 
