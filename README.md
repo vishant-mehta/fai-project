@@ -33,17 +33,14 @@ To run the streamlit application, navigate to the directory containing the strea
 streamlit run user_interface.py
 ```
 
+### Data Files
+Following is the link to the datasets we used for the data exploration phase: https://drive.google.com/drive/folders/1aeJIRrGwInBnYlZD_bk9Ve8AcivhrK_z?usp=sharing
+
 ## Contributors
 
 This project has been developed with contributions from the following individuals:
 
 - **Akshat Gandhi** 
-- **Vishant Mehta** 
+- **Vishant K. Mehta** 
 - **Amrit Gupta** 
 - **Aswath Senthil Kumar**
-
-
-
-
-
-
