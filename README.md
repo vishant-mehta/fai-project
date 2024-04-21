@@ -3,7 +3,7 @@
 ## Description
 This project contains Python scripts for analyzing the MashQA dataset and augmenting it with additional columns: Answer, Score, and Feedback. It is designed to run with minimal dependencies. Additionally, this repository includes a Streamlit application that serves as a UI dashboard for visualizing results from the underlying trained model.
 
-More details about the project can be found in the [project report](link_to_report_here)
+More details about the project can be found in the [project report](https://github.com/vishant-mehta/fai-project/blob/main/FAI_Project.pdf)
 
 ## Installation
 Make sure you have Python 3.x installed on your system. You can check your Python version by running:
