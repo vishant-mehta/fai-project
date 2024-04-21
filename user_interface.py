@@ -6,7 +6,6 @@ from langchain.prompts.chat import (
     SystemMessagePromptTemplate,
 )
 
-main_bg = "Photo.jpg"
 openai_api_key = 'Your OpenAI API Key'# Initialize chatbot with the OpenAI API key
 chat = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0.2, openai_api_key=openai_api_key)
 
