@@ -1,7 +1,7 @@
 # IntelliGrade: Enhancing Descriptive Answer Assessment with LLMs
 
 ## Description
-This project contains Python scripts for analyzing the MashQA dataset and augmenting it with additional columns: Answer, Score, and Feedback. It is designed to run with minimal dependencies. Additionally, this repository includes a Streamlit application that serves as a UI dashboard for visualizing results from the underlying trained model.
+This project contains Python scripts ([csv_json_convert.py](https://github.com/vishant-mehta/fai-project/blob/main/csv_json_convert.py) and [dataset_generator.py](https://github.com/vishant-mehta/fai-project/blob/main/dataset_generator.py)) for analyzing the MashQA dataset and augmenting it with additional columns: Answer, Score, and Feedback. It is designed to run with minimal dependencies. Additionally, this repository includes a Streamlit application ([user_interface.py]()) that serves as a UI dashboard for visualizing results from the underlying trained model.
 
 More details about the project can be found in the [project report](https://github.com/vishant-mehta/fai-project/blob/main/FAI_Project.pdf)
 
@@ -29,7 +29,7 @@ python3 dataset_generator.py
 ### Running StreamLit application
 To run the streamlit application, navigate to the directory containing the streamlit app and execute:
 ```bash
-streamlit run streamlit_app.py
+streamlit run user_interface.py
 ```
 
 ## Contributors
