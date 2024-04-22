@@ -13,7 +13,7 @@ python --version
 ```
 Install the requirements using:
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
