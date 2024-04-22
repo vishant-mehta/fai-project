@@ -33,6 +33,12 @@ To run the streamlit application, navigate to the directory containing the strea
 streamlit run user_interface.py
 ```
 
+### Running Training Script
+To run the training script, navigate to the directory containing the script and execute:
+```bash
+python3 train.py
+```
+
 ### Data Files
 Following is the link to the datasets we used for the data exploration phase: https://drive.google.com/drive/folders/1aeJIRrGwInBnYlZD_bk9Ve8AcivhrK_z?usp=sharing
 
