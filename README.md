@@ -11,9 +11,9 @@ Make sure you have Python 3.x installed on your system. You can check your Pytho
 ```bash
 python --version
 ```
-Make sure you have installed the following libraries.
+Install the requirements using:
 ```bash
-pip install streamlit
+pip install -r requirement.txt
 ```
 
 ## Usage
